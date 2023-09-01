@@ -1,6 +1,6 @@
 export const Descripcion = () => {
     return <>
-        <p>Registro</p>
+        <p>Descripcion del alojamiento</p>
         
     </>
     

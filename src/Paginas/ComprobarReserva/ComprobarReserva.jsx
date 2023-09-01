@@ -5,7 +5,7 @@ import {FormPago} from "./FormPago/FormPago"
 import {Perfil} from "../../Componentes/Perfil/Perfil"
 import {Logo} from "../../Componentes/Logo/Logo"
 
-export const Registro = () => {
+export const ComprobarReserva = () => {
     return <>
         <p>Solicitud  de Reserva</p>
         <Detalles />

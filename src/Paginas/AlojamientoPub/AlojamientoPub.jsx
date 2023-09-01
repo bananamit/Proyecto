@@ -1,10 +1,10 @@
-import {Logo} from "../../Componentes/Logo/Logo"
+import { Logo } from "../../Componentes/Logo/Logo"
 import { Perfil } from "../../Componentes/Perfil/Perfil"
 import { AptosFinales } from "../../Componentes/AptosFinales/Aptos Finales"
 
-export const ReservaR = () => {
+export const AlojamientoPub = () => {
     return <>
-        <p>Registro</p>
+        <p>Alojamientos publicados</p>
         <Perfil />
         <Logo />
         <AptosFinales />
